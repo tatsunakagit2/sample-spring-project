@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SampleSpringProjectApplication {
 
 	public static void main(String[] args) {
-
+		// protect chack
 		SpringApplication.run(SampleSpringProjectApplication.class, args); //conflict test, another changes
 	}
 
